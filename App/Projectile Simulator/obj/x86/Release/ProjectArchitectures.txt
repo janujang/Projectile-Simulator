@@ -1,0 +1,2 @@
+C:\Users\yazia\Documents\Unity projects\Hololens Projectile\App\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+C:\Users\yazia\Documents\Unity projects\Hololens Projectile\App\Projectile Simulator\Projectile Simulator.csproj;x86
